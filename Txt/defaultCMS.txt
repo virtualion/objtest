@@ -1,0 +1,23 @@
+Class	Name	Data	Option
+2DObject	Den	Images/den.JPG	
+2DObject	map1	https://virtualion.github.io/shimane_pic/1001/map1.png	
+2DObject	スプラッシュ	Images/DefaultImages/Splash.png	https://virtualion.com
+3DObject	ball	MyModels/ball/TriLibSampleModel.obj	
+3DObject		https://muse2000-b.s3.ap-northeast-1.amazonaws.com/Resources/MyModels/f1961_bottom.zip	
+Table	10.0x7.5x6.0	10.0x7.5x6.0	
+Table	8.5x7.5x6.0	8.5x7.5x6.0	
+Construct	5.0x18.0x7.0	5.0x18.0x7.0	
+Construct	5.0x15.0x16.0	5.0x15.0x16.0	
+Light	spot	spot	
+Light	wide	wide	
+Audio	テスト音声	1-10_蝦夷人種痘之図（光平）.wav	
+Audio	テスト音声(Webから)	https://anchor200.github.io/webcontents/Audio/bodyimage_audio/JapaneseAudioGuide/0_タイトル.wav	
+Caption	テストキャプション	caption1.txt	
+Frame	Metal	Metal	
+Frame	MetalGold	MetalGold	
+Frame	WoodenWhite	WoodenWhite	
+Frame	WoodenBlack	WoodenBlack	
+Frame	Wooden	Wooden	
+Frame	Wooden_thin	Wooden_thin	
+Frame	Wooden_thin2	Wooden_thin2	
+Frame	none(caption)	none(caption)	
