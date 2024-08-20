@@ -14,7 +14,6 @@ Frame	Wooden_thin	Wooden_thin
 Frame	Wooden_thin2	Wooden_thin2	
 Frame	none(caption)	none(caption)	
 2DObject	サンプルの絵	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/無題.png	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/無題.png
-2DObject	サンプルの絵2	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/%E7%84%A1%E9%A1%8C.png	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/%E7%84%A1%E9%A1%8C.png
 2DObject	源氏物語	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/genji.jpg	https://ndlsearch.ndl.go.jp/imagebank/theme/genjiemaki
 2DObject	スプラッシュ	https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-img/Splash.png	https://virtualion.com
 3DObject		https://virtualion.github.io/webgl-editor-test-0819/web-contents/sample-3d/f1961_bottom.zip	
